@@ -1,6 +1,6 @@
 Logomarca do site
 
-Menu Principal
+Menu Principal - NAVEBAR e Menu Hamburguer 
 
 Área de notícias
 
