@@ -2,3 +2,5 @@ Logomarca do site
 
 Menu Principal
 
+Área de notícias
+
